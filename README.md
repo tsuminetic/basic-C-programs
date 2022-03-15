@@ -1,2 +1,1 @@
-# basic-C-programs
 snekk
